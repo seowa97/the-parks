@@ -1,0 +1,4 @@
+https://irma.nps.gov/Stats/Reports/National
+https://www.ustravel.org/research/national-parks-dashboard
+https://machinelearningmastery.com/resample-interpolate-time-series-data-python/
+
