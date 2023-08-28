@@ -2,6 +2,7 @@ import csv
 from app import app
 from traffic_spot import Traffic
 
+# git test 
 
 park_list = {}  # park list = [traffic spot: traffic object]
 NP_list = {}    # NP_list = [national park: list of traffic spots]
